@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    color: rgb(9, 0, 108);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: blanchedalmond;
+}
+table{
+    border: 5px;
+    border-color: brown;
+}
+#thfiction{
+    background-color: rgb(0, 255, 255);
+}
+#thscience{
+    background-color: rgb(48, 255, 186);
+}
+#thhistory{
+    background-color: rgb(244, 255, 84);
+}
+#thfiction1{
+    background-color: rgb(141, 210, 210);
+}
+#thscience1{
+    background-color: rgb(152, 200, 185);
+}
+#thhistory1{
+    background-color: rgb(204, 207, 160);
+}
